@@ -1,0 +1,56 @@
+---
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+
+const meta = {
+	description: "Aku adalah aku...",
+	title: "Tentang",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+		<h1 class="title">Tentang</h1>
+		<p>
+			Aku adalah penulis di balik "Catatan Terpencilku." Nama lengkapku mungkin tak begitu
+			penting, karena di sini, aku ingin lebih dikenal melalui kata-kata dan cerita yang kutorehkan.
+			Aku adalah seorang pemimpi yang suka mencari makna dalam hal-hal sederhana, pecinta senja yang
+			sering kali tenggelam dalam pikiranku sendiri. Menulis bagiku adalah cara untuk memahami dunia
+			dan diriku sendiri. Setiap kata yang kutulis adalah cerminan dari perjalanan, pemikiran, dan
+			perasaan yang aku alami sehari-hari. Mungkin kamu akan menemukan dirimu dalam tulisanku, atau
+			mungkin kamu hanya akan melihat potret kecil dari kehidupanku. Aku bukan penulis profesional,
+			hanya seseorang yang gemar mencatat momen-momen kecil yang kadang terlewatkan. Melalui blog
+			ini, aku berharap bisa berbagi sedikit kehangatan, inspirasi, dan mungkin, senyum kecil di
+			wajahmu. Terima kasih sudah meluangkan waktu untuk mengenal sedikit tentangku. Semoga kita
+			bisa terus berbagi cerita dan pengalaman di sini.
+		</p>
+		<!-- <div class="flex justify-center">
+			<Image
+				alt="A cartoon cactus looking at the 'Astro.build' logo"
+				fetchpriority="high"
+				loading="eager"
+				src={aboutImg}
+			/>
+		</div> -->
+		<!-- <p>Here are my some of my awesome built in features:</p>
+		<ul class="list-inside list-disc">
+			<li>I'm ultra fast as I'm a static site</li>
+			<li>I'm fully responsive</li>
+			<li>I come with a light and dark mode</li>
+			<li>I'm easy to customise and add additional content</li>
+			<li>I have Tailwind CSS styling</li>
+			<li>Shiki code syntax highlighting</li>
+			<li>Satori for auto generating OG images for blog posts</li>
+		</ul>
+		<p>
+			Clone or fork my <a
+				aria-label="github repository"
+				class="cactus-link inline-block"
+				href="https://github.com/chrismwilliams/astro-cactus"
+				rel="noopener noreferrer"
+				target="_blank">repo</a
+			> if you like me!
+		</p> -->
+	</div>
+</PageLayout>
