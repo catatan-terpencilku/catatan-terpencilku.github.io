@@ -6,6 +6,13 @@ updatedDate: "12 Aug 2024"
 coverImage:
   src: "./imgs/renung.jpg"
   alt: "potret seorang pria yang sedang memandang dunia luar dari jendala panjang rumahnya"
+title: "Hari-hari Merenungku"
+description: "Ketika ketidakberdayaan membuatku harus berteman dengan kesepian"
+publishDate: "12 Aug 2024"
+updatedDate: "12 Aug 2024"
+coverImage:
+  src: "./imgs/renung.jpg"
+  alt: "potret seorang pria yang sedang memandang dunia luar dari jendala panjang rumahnya"
 tags: ["merenung", "sepi", "sendiri"]
 ---
 
