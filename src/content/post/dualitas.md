@@ -103,7 +103,7 @@ Dengan adanya sehat dan sakit, harapannya dapat menjadikan pendorong bagi kita u
 
 Aku, kamu, kita, semuanya siapapun yang membaca catatan ini. Semoga dalam keadaan sehat selalu dan selalu dalam keadaan penuh bersyukur setiap saatnya. Karena dengan bersyukur adalah awal mula kebahagiaan itu muncul, karena dengan kebahagiaan kita bisa lebih baik lagi dalam menikmati hidup ini.
 
-Dan jangan lupa untuk tetap menjaga tubuhmu dengan menjalankan gaya yang hidup sehat. Tidur yang cukup, makan makanan yang bergizi dan jangan lupa juga untuk sempatkan dirimu olah raga setiap minggunya.
+Dan jangan lupa untuk tetap menjaga tubuhmu dengan menjalankan gaya hidup yang sehat. Tidur yang cukup, makan makanan yang bergizi dan jangan lupa juga untuk sempatkan dirimu berolahraga setiap minggunya.
 
 ## Penutup
 
